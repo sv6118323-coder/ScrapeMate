@@ -1,0 +1,6 @@
+scraper.log
+books.json
+books.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
